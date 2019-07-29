@@ -1,4 +1,4 @@
-# BoloBInary-
+# BoloBinary-
 A Python script in that speech convert to binary system and print binary language of our sentence.
 Use Google Speech Recognition API to convert your speech into text Google Speech recognition automatically recognizes your spoken words and display them in the form of text.
 
@@ -10,4 +10,5 @@ Python installed; Google Speech Recognition API installed; Active Internet Conne
 Install using PIP:
 
   pip install SpeechRecognition
+  
   pip install pyaudio
